@@ -124,7 +124,7 @@ On **mobile**, the manage users table switches to a **card-based layout** to avo
 
 | 📱 Mobile (390px) | 📟 Tablet (768px) | 🖥️ Desktop (1280px) |
 |---|---|---|
-| ![Login Mobile](screenshots/login-mobile.png) | ![Login Tablet](screenshots/login-tablet.png) | ![Login Desktop](screenshots/login-desktop.png) |
+| ![Login Mobile](login-mobile.png) | ![Login Tablet](login-tablet.png) | ![Login Desktop](login-desktop.png) |
 
 ---
 
@@ -132,7 +132,7 @@ On **mobile**, the manage users table switches to a **card-based layout** to avo
 
 | 📱 Mobile | 📟 Tablet | 🖥️ Desktop |
 |---|---|---|
-| ![Register Mobile](screenshots/register-mobile.png) | ![Register Tablet](screenshots/register-tablet.png) | ![Register Desktop](screenshots/register-desktop.png) |
+| ![Register Mobile](register-mobile.png) | ![Register Tablet](register-tablet.png) | ![Register Desktop](register-desktop.png) |
 
 ---
 
@@ -140,7 +140,7 @@ On **mobile**, the manage users table switches to a **card-based layout** to avo
 
 | 📱 Mobile | 📟 Tablet | 🖥️ Desktop |
 |---|---|---|
-| ![Dashboard Mobile](screenshots/dashboard-mobile.png) | ![Dashboard Tablet](screenshots/dashboard-tablet.png) | ![Dashboard Desktop](screenshots/dashboard-desktop.png) |
+| ![Dashboard Mobile](dashboard-mobile.png) | ![Dashboard Tablet](dashboard-tablet.png) | ![Dashboard Desktop](dashboard-desktop.png) |
 
 ---
 
@@ -148,7 +148,7 @@ On **mobile**, the manage users table switches to a **card-based layout** to avo
 
 | 📱 Mobile (card layout) | 📟 Tablet | 🖥️ Desktop |
 |---|---|---|
-| ![Manage Mobile](screenshots/manage-users-mobile.png) | ![Manage Tablet](screenshots/manage-users-tablet.png) | ![Manage Desktop](screenshots/manage-users-desktop.png) |
+| ![Manage Mobile](manage-users-mobile.png) | ![Manage Tablet](manage-users-tablet.png) | ![Manage Desktop](manage-users-desktop.png) |
 
 ---
 
@@ -156,7 +156,7 @@ On **mobile**, the manage users table switches to a **card-based layout** to avo
 
 | 📱 Mobile | 📟 Tablet | 🖥️ Desktop |
 |---|---|---|
-| ![Edit Mobile](screenshots/edit-user-mobile.png) | ![Edit Tablet](screenshots/edit-user-tablet.png) | ![Edit Desktop](screenshots/edit-user-desktop.png) |
+| ![Edit Mobile](edit-user-mobile.png) | ![Edit Tablet](edit-user-tablet.png) | ![Edit Desktop](edit-user-desktop.png) |
 
 ---
 
